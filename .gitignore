@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# clientId
+/src/apis/googleAuthId.js
+
 # testing
 /coverage
 
